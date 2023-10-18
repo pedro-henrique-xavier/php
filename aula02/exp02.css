@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One&family=IBM+Plex+Mono:wght@200;400&family=Source+Code+Pro:wght@200;400;600&display=swap');
+
+h1{
+    background-color: dimgray;
+    text-align: center;
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+.stilo{
+    background-color: azure;
+    text-align: center;
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+.conteudo{
+    background-color:lightslategray ;
+    text-align: center;
+}
+
+.conteudo #txt {
+    font-size: 50px;
+    text-align: center;
+
+}
+
