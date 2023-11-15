@@ -1,0 +1,9 @@
+#img {
+    background-image: url(goat.png);
+    background-repeat: no-repeat ;
+    background-position: center;
+    height: 700px;
+    width: 1400px;
+    border: black 10px solid;
+
+}

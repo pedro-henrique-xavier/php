@@ -1,0 +1,36 @@
+*{
+    padding: 2px;
+    margin: 0;
+}
+
+#imag{
+    background-color:aliceblue;
+    height: 450px;  
+}
+
+#i1{
+    background-image: url(goat.png);
+    background-repeat: no-repeat ;
+    height: 400px;
+    width: 400px;
+    margin-top: 60px;
+    margin-left: 100px;
+}
+#i2{
+    background-image: url(ca.jpg);
+    background-repeat: no-repeat ;
+    height: 300px;
+    width: 400px;
+    margin-top: -400px;
+    margin-left: 1000px;   
+}
+
+#div2{
+    background-color: blueviolet;
+    height: 450px; 
+}
+
+#text {
+    margin-top: -180px;
+    text-align: center
+}
