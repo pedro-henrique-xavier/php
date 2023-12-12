@@ -1,0 +1,46 @@
+.box {
+    background-color: blue;
+    height: 800px;
+    display: grid;
+    grid-template-areas: "header header header"
+                         "menu main right"
+                         "menu footer footer";
+    grid-template-rows: 260px 240px 280px;
+    grid-template-columns: 300px 600px 600px;
+}
+
+.header{
+    background-color: rgb(72, 133, 151);
+    grid-area: header;
+    margin: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+.menu{
+    background-color: rgb(72, 133, 151);
+    grid-area: menu;
+    margin: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+.main{
+    background-color: rgb(72, 133, 151);
+    grid-area: main;
+    margin: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+.right{
+    background-color: rgb(72, 133, 151);
+    grid-area: right;
+    margin: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+.footer{
+    background-color: rgb(72, 133, 151);
+    grid-area: footer;
+    margin: 10px;
+    text-align: center;
+    font-size: 30px;
+}
