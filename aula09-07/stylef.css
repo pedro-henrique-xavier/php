@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(184, 194, 212);
+    margin: 30px;
+}
+
+form{
+    text-align: center;
+}
+
+h2{
+    font-size: 32px;
+    text-align: center;
+}
+
+
+input[type=text], select {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 5px;
+    border: 2px solid rgb(17, 65, 90);
+    border-radius: 10px;
+}
+input[type=submit], select {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 5px;
+    border: 2px solid rgb(65, 167, 198);;
+    border-radius: 10px;
+    background-color: rgb(65, 167, 198);
+}
+input[type=select], select {
+    width: 25%;
+    padding: 12px 20px;
+    margin: 5px;
+    border: 2px solid rgb(65, 167, 198);;
+    border-radius: 10px;
+    background-color: rgb(65, 167, 198);
+}
+input[type=reset], select {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 5px;
+    border: 2px solid rgb(65, 167, 198);
+    border-radius: 10px;
+    background-color: rgb(65, 167, 198);
+}
+input[type=number], select {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 5px;
+    border: 2px solid rgb(17, 65, 90);
+    border-radius: 10px;
+}
+input[type=date], select {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 5px;
+    border: 2px solid rgb(17, 65, 90);
+    border-radius: 10px;
+}
